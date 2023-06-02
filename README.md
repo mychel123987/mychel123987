@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
+Meu nome é Mychel
 
-<!--
-**mychel123987/mychel123987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- ### Você pode entrar em contato comigo :mailbox
+correa.michel@escola.pr.gov.br
+@_.mychel_
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://github.com/mychel123987/mychel123987/assets/135331827/5de167b4-191a-4f46-8b69-8dc85df78044)
+![image](https://github.com/mychel123987/mychel123987/assets/135331827/b7bfc53b-2028-45a5-a61e-3ce3bc9986ea)
+![image](https://github.com/mychel123987/mychel123987/assets/135331827/eed5f26d-5e97-49d5-b06a-3fd1ac418b96)
